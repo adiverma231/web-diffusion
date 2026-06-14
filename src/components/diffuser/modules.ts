@@ -5,7 +5,7 @@ export class SelfAttention extends torch.nn.Module {
     channels: number;
     size: number;
     mha: torch.nn.MultiheadAttention;
-    ln: torch.nn.LayerNorm;
+    ln: torch.nn.LayerNorm; 
     ff_self: torch.nn.Sequential;
 
     constructor(channels, size) {

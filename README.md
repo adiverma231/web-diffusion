@@ -22,7 +22,7 @@ WebDiffuser is typescript implementation of a bare bones image diffuser intended
 
 ## Support
 - WebGPU is not yet standard across all browsers. This was tested in Google Chrome and Brave
-- This was tested on AMD graphics but should work on NVIDIA as well. If you do not have a GPU things will break
+- This was tested on AMD graphics but should work on NVIDIA as well. If you do not have a GPU things will break :(
 
 ## Get Started
 
